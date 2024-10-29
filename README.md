@@ -6,7 +6,7 @@
 </p>
 - 👋 Hi, I’m @sids-dev (Siddhartha)<br>
 - 👀 I’m interested in ...AIML<br>
-- 🌱 I’m currently learning ...web devlopent and kotlin<br>
+- 🌱 I’m currently learning ...web devlopenment and kotlin<br>
 - 💞️ I’m looking to collaborate on ...Artificial intelligence<br>
 - 📫 How to reach me ...siddharthareddy.mi@gmail.com<br>
 - ✨ Android DEvlopement :
