@@ -9,8 +9,8 @@
 - 🌱 I’m currently learning ...web devlopent and kotlin<br>
 - 💞️ I’m looking to collaborate on ...Artificial intelligence<br>
 - 📫 How to reach me ...siddharthareddy.mi@gmail.com<br>
-- - Android DEvlopement:robot:
-- - Intrested in connecting with new people around the world:octocat:
+- ✨ Android DEvlopement :
+- ✨Intrested in connecting with new people around the world:octocat:
 
 <!---
 sids-dev/sids-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
